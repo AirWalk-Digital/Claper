@@ -234,7 +234,7 @@ msgstr ""
 #: lib/claper_web/notifiers/user_notifier.ex:12
 #: lib/claper_web/templates/user_notifier/magic.html.heex:17
 #, elixir-autogen, elixir-format
-msgid "Connect to Claper"
+msgid "Connect to Pulse"
 msgstr ""
 
 #: lib/claper_web/templates/user_notifier/magic.html.heex:29
